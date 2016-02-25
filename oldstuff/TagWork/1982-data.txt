@@ -1,0 +1,763 @@
+======== 1982-02-00 01 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 01 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 379 kB
+FileModifyDate                  : 2000:01:06 00:46:06-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 658
+ImageHeight                     : 540
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 658x540
+======== 1982-02-00 02 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 02 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 463 kB
+FileModifyDate                  : 2000:01:06 01:28:56-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Sherryl ..Bart Bolton (green shirt)..unknown (behind bart)..Paul Alexander Houghton (19) (blue shirt)..Terry Jenkins (red sweater)..unknown (checker shirt)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 656
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 656x532
+======== 1982-02-00 03 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 03 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 406 kB
+FileModifyDate                  : 2000:01:06 00:44:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 666
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 666x528
+======== 1982-02-00 04 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 04 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 440 kB
+FileModifyDate                  : 2000:01:06 00:58:50-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 656
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 656x530
+======== 1982-02-00 05 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 05 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 443 kB
+FileModifyDate                  : 2000:01:06 00:54:44-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x534
+======== 1982-02-00 06 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 06 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 474 kB
+FileModifyDate                  : 2000:01:06 01:01:38-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x528
+======== 1982-02-00 07 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 07 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 443 kB
+FileModifyDate                  : 2000:01:06 00:45:52-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 664
+ImageHeight                     : 526
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 664x526
+======== 1982-02-00 08 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 08 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 418 kB
+FileModifyDate                  : 2000:01:06 01:05:52-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Unknown..Terry Jenkins
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x528
+======== 1982-02-00 09 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 09 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 423 kB
+FileModifyDate                  : 2000:01:06 00:46:16-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Paul Alexander Houghton (19)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 656
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 656x532
+======== 1982-02-00 10 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 10 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 188 kB
+FileModifyDate                  : 2000:01:09 01:43:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Paul Alexander Houghton (19)
+ImageWidth                      : 528
+ImageHeight                     : 660
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 528x660
+======== 1982-02-00 11 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 11 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 200 kB
+FileModifyDate                  : 2000:01:09 01:42:16-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..unknown..Paul Alexander Houghton (19)
+ImageWidth                      : 526
+ImageHeight                     : 662
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 526x662
+======== 1982-02-00 12 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 12 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 428 kB
+FileModifyDate                  : 2000:01:06 00:50:14-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Paul Alexander Houghton (19)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x530
+======== 1982-02-00 13 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 13 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 407 kB
+FileModifyDate                  : 2000:01:06 00:47:34-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Paul Alexander Houghton (19)..Bart Bolton..Sheryl..Terry Jenkins
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x532
+======== 1982-02-00 14 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 14 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 412 kB
+FileModifyDate                  : 2000:01:06 01:21:00-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..Bart Bolton..Paul Alexander Houghton (19)..Terry Jenkins
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 672
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 672x532
+======== 1982-02-00 15 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 15 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 454 kB
+FileModifyDate                  : 2000:01:06 00:54:58-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..unknown..Bart Bolton (green shirt)..unknown..Sherryl
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x532
+======== 1982-02-00 16 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 16 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 428 kB
+FileModifyDate                  : 2000:01:06 01:02:46-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 664
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 664x528
+======== 1982-02-00 17 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 17 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 437 kB
+FileModifyDate                  : 2000:01:06 00:41:56-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x532
+======== 1982-02-00 18 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 18 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 435 kB
+FileModifyDate                  : 2000:01:06 01:21:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..unknown..Sheryl
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x530
+======== 1982-02-00 19 Dorm Party.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 19 Dorm Party.jpg
+Directory                       : .
+FileSize                        : 523 kB
+FileModifyDate                  : 2000:01:06 01:25:56-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Dorm Party..unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 662
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 662x528
+======== 1982-02-00 20 Dorm Room.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-02-00 20 Dorm Room.jpg
+Directory                       : .
+FileSize                        : 392 kB
+FileModifyDate                  : 2000:01:06 00:49:04-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1982 Minot AFB North Dakota..Dorm Room..unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 660
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 660x532
+======== 1982-03-00 01 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-03-00 01 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 368 kB
+FileModifyDate                  : 2000:01:06 01:03:02-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1982 Minot AFB North Dakota..Paul Alexander Houghton (19)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x530
+======== 1982-03-00 02 Dorm Room.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-03-00 02 Dorm Room.jpg
+Directory                       : .
+FileSize                        : 146 kB
+FileModifyDate                  : 2000:01:09 01:42:32-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1982 Minot AFB North Dakota..Paul Alexander Houghton (19)..Dorm Room
+ImageWidth                      : 540
+ImageHeight                     : 662
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 540x662
+======== 1982-03-00 03 Dorm Room.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-03-00 03 Dorm Room.jpg
+Directory                       : .
+FileSize                        : 171 kB
+FileModifyDate                  : 2000:01:09 01:42:44-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1982 Minot AFB North Dakota..Paul Alexander Houghton (19)..Dorm Room
+ImageWidth                      : 532
+ImageHeight                     : 654
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 532x654
+======== 1982-03-00 04 Terry Jenkins.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-03-00 04 Terry Jenkins.jpg
+Directory                       : .
+FileSize                        : 420 kB
+FileModifyDate                  : 2000:01:06 01:05:46-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : March 1982 Minot AFB North Dakota..Terry Jenkins
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x530
+======== 1982-03-00 05 Sheryl.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-03-00 05 Sheryl.jpg
+Directory                       : .
+FileSize                        : 480 kB
+FileModifyDate                  : 2000:01:06 00:47:28-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : Feburary 1982 Minot AFB North Dakota..Sheryl
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x530
+======== 1982-03-00 06 Sheryl.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-03-00 06 Sheryl.jpg
+Directory                       : .
+FileSize                        : 389 kB
+FileModifyDate                  : 2000:01:06 01:11:24-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1982 Minot AFB North Dakota..Sheryl
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 648
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 648x532
+======== 1982-04-00 01 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-04-00 01 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 374 kB
+FileModifyDate                  : 2000:01:06 00:48:56-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1982 Minot AFB North Dakota..Paul Alexander Houghton (19)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 656
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 656x532
+======== 1982-04-00 02 Unknown.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-04-00 02 Unknown.jpg
+Directory                       : .
+FileSize                        : 391 kB
+FileModifyDate                  : 2000:01:06 01:11:06-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1982 Minot AFB North Dakota..Unknown
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 666
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 666x528
+======== 1982-05-00 Wittney and Ron Sherrel.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-05-00 Wittney and Ron Sherrel.jpg
+Directory                       : .
+FileSize                        : 389 kB
+FileModifyDate                  : 2005:01:23 09:20:30-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 874
+ExifImageHeight                 : 673
+ImageWidth                      : 874
+ImageHeight                     : 673
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 874x673
+======== 1982-10-00 01 Nicole Grover.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-10-00 01 Nicole Grover.jpg
+Directory                       : .
+FileSize                        : 37 kB
+FileModifyDate                  : 2000:01:11 20:33:06-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : October 1982..Nicole Grover
+ImageWidth                      : 233
+ImageHeight                     : 329
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 233x329
+======== 1982-11-00 01 Elizabeth Ann Grover.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1982-11-00 01 Elizabeth Ann Grover.jpg
+Directory                       : .
+FileSize                        : 73 kB
+FileModifyDate                  : 2000:01:13 00:00:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : November 1982..Elizabeth Ann Grover (6 m)
+ImageWidth                      : 464
+ImageHeight                     : 468
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 464x468
+   31 image files read

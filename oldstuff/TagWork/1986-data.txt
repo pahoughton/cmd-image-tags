@@ -1,0 +1,2100 @@
+======== 1986-01-00 01 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-01-00 01 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 407 kB
+FileModifyDate                  : 1999:12:22 11:51:32-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : January 1986 home @ 127-1 Glacier Dr...Minot AFB North Dakota 58704..Robert Edward Houghton (1)..
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 678
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 678x534
+======== 1986-01-00 02 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-01-00 02 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 412 kB
+FileModifyDate                  : 1999:12:22 11:06:22-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : January 1986 home @ 127-1 Glacier Dr...Minot AFB North Dakota 58704..Robert Edward Houghton (1)..
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 666
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 666x530
+======== 1986-02-10 01 House.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-02-10 01 House.jpg
+Directory                       : .
+FileSize                        : 473 kB
+FileModifyDate                  : 1999:12:22 23:03:18-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : February 1986 home @ Rt 11, Box 150..Rapid City SD 57702
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 644
+ImageHeight                     : 540
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 644x540
+======== 1986-02-14 02 Rick Morris.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-02-14 02 Rick Morris.jpg
+Directory                       : .
+FileSize                        : 168 kB
+FileModifyDate                  : 2000:01:26 09:48:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 ?..Rick Morris
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 526
+ImageHeight                     : 408
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 526x408
+======== 1986-03-30 01 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 01 Easter.jpg
+Directory                       : .
+FileSize                        : 366 kB
+FileModifyDate                  : 2005:01:23 17:55:04-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 863
+ExifImageHeight                 : 696
+ImageWidth                      : 863
+ImageHeight                     : 696
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 863x696
+======== 1986-03-30 02 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 02 Easter.jpg
+Directory                       : .
+FileSize                        : 440 kB
+FileModifyDate                  : 2005:01:23 17:58:34-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 966
+ExifImageHeight                 : 696
+ImageWidth                      : 966
+ImageHeight                     : 696
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 966x696
+======== 1986-03-30 03 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 03 Easter.jpg
+Directory                       : .
+FileSize                        : 292 kB
+FileModifyDate                  : 2005:01:23 17:59:06-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 720
+ExifImageHeight                 : 704
+ImageWidth                      : 720
+ImageHeight                     : 704
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 720x704
+======== 1986-03-30 04 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 04 Easter.jpg
+Directory                       : .
+FileSize                        : 300 kB
+FileModifyDate                  : 2005:01:23 18:02:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 795
+ExifImageHeight                 : 696
+ImageWidth                      : 795
+ImageHeight                     : 696
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 795x696
+======== 1986-03-30 05 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 05 Easter.jpg
+Directory                       : .
+FileSize                        : 290 kB
+FileModifyDate                  : 2005:01:23 18:03:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 713
+ExifImageHeight                 : 697
+ImageWidth                      : 713
+ImageHeight                     : 697
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 713x697
+======== 1986-03-30 06 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 06 Easter.jpg
+Directory                       : .
+FileSize                        : 282 kB
+FileModifyDate                  : 2005:01:23 18:04:34-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 672
+ExifImageHeight                 : 696
+ImageWidth                      : 672
+ImageHeight                     : 696
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 672x696
+======== 1986-03-30 07 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 07 Easter.jpg
+Directory                       : .
+FileSize                        : 322 kB
+FileModifyDate                  : 2005:01:23 18:05:00-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 761
+ExifImageHeight                 : 696
+ImageWidth                      : 761
+ImageHeight                     : 696
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 761x696
+======== 1986-03-30 08 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 08 Easter.jpg
+Directory                       : .
+FileSize                        : 324 kB
+FileModifyDate                  : 2005:01:23 18:07:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 645
+ExifImageHeight                 : 683
+ImageWidth                      : 645
+ImageHeight                     : 683
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 645x683
+======== 1986-03-30 09 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 09 Easter.jpg
+Directory                       : .
+FileSize                        : 498 kB
+FileModifyDate                  : 2005:01:23 18:08:14-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 966
+ExifImageHeight                 : 704
+ImageWidth                      : 966
+ImageHeight                     : 704
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 966x704
+======== 1986-03-30 12 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 12 Easter.jpg
+Directory                       : .
+FileSize                        : 269 kB
+FileModifyDate                  : 2005:01:23 18:12:50-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 679
+ExifImageHeight                 : 704
+ImageWidth                      : 679
+ImageHeight                     : 704
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 679x704
+======== 1986-03-30 13 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 13 Easter.jpg
+Directory                       : .
+FileSize                        : 344 kB
+FileModifyDate                  : 2005:01:23 18:13:20-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 972
+ExifImageHeight                 : 690
+ImageWidth                      : 972
+ImageHeight                     : 690
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 972x690
+======== 1986-03-30 14 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 14 Easter.jpg
+Directory                       : .
+FileSize                        : 309 kB
+FileModifyDate                  : 2005:01:23 18:11:52-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 727
+ExifImageHeight                 : 683
+ImageWidth                      : 727
+ImageHeight                     : 683
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 727x683
+======== 1986-03-30 15 Easter.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-03-30 15 Easter.jpg
+Directory                       : .
+FileSize                        : 340 kB
+FileModifyDate                  : 2005:01:23 18:12:20-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 842
+ExifImageHeight                 : 690
+ImageWidth                      : 842
+ImageHeight                     : 690
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 842x690
+======== 1986-04-00 02 Patty and Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-04-00 02 Patty and Rob.jpg
+Directory                       : .
+FileSize                        : 415 kB
+FileModifyDate                  : 1999:12:22 21:28:56-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : April 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Patricia Ann Morris (24)..Robert Edward Houghton (1)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 660
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 660x530
+======== 1986-04-00 03 Patty and Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-04-00 03 Patty and Rob.jpg
+Directory                       : .
+FileSize                        : 355 kB
+FileModifyDate                  : 1999:12:22 21:31:22-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : April 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Patricia Ann Morris (24)..Robert Edward Houghton (1)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 648
+ImageHeight                     : 538
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 648x538
+======== 1986-05-15 01 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-05-15 01 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 427 kB
+FileModifyDate                  : 1999:12:22 12:26:40-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : May 15 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)..Patricia Ann Morris (24)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 764
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 764x534
+======== 1986-05-15 02 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-05-15 02 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 429 kB
+FileModifyDate                  : 1999:12:22 12:28:34-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : May 15 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 772
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 772x530
+======== 1986-05-15 03 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-05-15 03 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 425 kB
+FileModifyDate                  : 1999:12:22 12:28:44-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : May 15 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 764
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 764x534
+======== 1986-05-15 04 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-05-15 04 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 431 kB
+FileModifyDate                  : 1999:12:22 12:28:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : May 15 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 760
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 760x530
+======== 1986-05-15 05 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-05-15 05 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 427 kB
+FileModifyDate                  : 1999:12:22 12:30:44-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : May 15 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 770
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 770x530
+======== 1986-05-15 06 Carol and Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-05-15 06 Carol and Rob.jpg
+Directory                       : .
+FileSize                        : 427 kB
+FileModifyDate                  : 1999:12:22 12:30:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : May 15 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Carol Mallory..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 762
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 762x534
+======== 1986-06-00 01 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 01 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 386 kB
+FileModifyDate                  : 1999:12:22 21:22:02-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Rapid City South Dakota..Rober Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 530
+ImageHeight                     : 670
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 530x670
+======== 1986-06-00 02 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 02 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 361 kB
+FileModifyDate                  : 1999:12:22 21:20:28-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Rapid City South Dakota..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x534
+======== 1986-06-00 03 Paul Patty Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 03 Paul Patty Rob.jpg
+Directory                       : .
+FileSize                        : 455 kB
+FileModifyDate                  : 2000:01:29 22:52:44-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Paul Alexander Houghton (23)..Patricia Ann Morris (24)..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x532
+======== 1986-06-00 04 Paul Rob Patty.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 04 Paul Rob Patty.jpg
+Directory                       : .
+FileSize                        : 430 kB
+FileModifyDate                  : 1999:12:22 21:24:12-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Paul Alexander Houghton (23)..Robert Edward Houghton (2)..Patricia Ann Morris (24)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x532
+======== 1986-06-00 05 Paul Rob Patty.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 05 Paul Rob Patty.jpg
+Directory                       : .
+FileSize                        : 456 kB
+FileModifyDate                  : 1999:12:22 21:24:02-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Paul Alexander Houghton (23)..Robert Edward Houghton (2)..Patricia Ann Morris (24)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 664
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 664x530
+======== 1986-06-00 06 Paul Rob Patty.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 06 Paul Rob Patty.jpg
+Directory                       : .
+FileSize                        : 467 kB
+FileModifyDate                  : 1999:12:22 21:24:20-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Paul Alexander Houghton (23)..Robert Edward Houghton (2)..Patricia Ann Morris (24)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x530
+======== 1986-06-00 07 Patty and Paul.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 07 Patty and Paul.jpg
+Directory                       : .
+FileSize                        : 424 kB
+FileModifyDate                  : 1999:12:20 23:06:36-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Patricia Ann Morris (24)..Paul Alexander Houghton (23)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 610
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 610x530
+======== 1986-06-00 08 Dan Rob Michael.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 08 Dan Rob Michael.jpg
+Directory                       : .
+FileSize                        : 473 kB
+FileModifyDate                  : 1999:12:22 21:26:32-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Dan Rice..Robert Edward Houghton (2)..Michael Rice
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 668
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 668x530
+======== 1986-06-00 09 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 09 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 436 kB
+FileModifyDate                  : 2000:01:26 09:13:10-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Paul Alexander Houghton (23)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 662
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 662x528
+======== 1986-06-00 10 01 Patty Paul Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 10 01 Patty Paul Rob.jpg
+Directory                       : .
+FileSize                        : 384 kB
+FileModifyDate                  : 1999:12:22 21:26:42-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Patricia Ann Morris (24)..Robert Edward Houghton (2)..Paul Alexander Houghton (23)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 656
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 656x534
+======== 1986-06-00 10 02 Rob and Patty.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 10 02 Rob and Patty.jpg
+Directory                       : .
+FileSize                        : 385 kB
+FileModifyDate                  : 1999:12:22 12:31:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1985 Minot North Dakota..Robert Edward Houghton (1)..Patricia Ann Morris (23)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x532
+======== 1986-06-00 11 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 11 Black Hills.jpg
+Directory                       : .
+FileSize                        : 334 kB
+FileModifyDate                  : 2000:01:06 00:10:02-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 536
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x536
+======== 1986-06-00 12 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 12 Black Hills.jpg
+Directory                       : .
+FileSize                        : 328 kB
+FileModifyDate                  : 1999:12:20 23:09:04-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 666
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 666x528
+======== 1986-06-00 13 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 13 Black Hills.jpg
+Directory                       : .
+FileSize                        : 454 kB
+FileModifyDate                  : 1999:12:22 21:20:18-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 664
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 664x532
+======== 1986-06-00 14 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 14 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 392 kB
+FileModifyDate                  : 1999:12:22 21:18:18-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x530
+======== 1986-06-00 15 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 15 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 413 kB
+FileModifyDate                  : 2000:01:26 14:06:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x532
+======== 1986-06-00 16 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 16 Black Hills.jpg
+Directory                       : .
+FileSize                        : 494 kB
+FileModifyDate                  : 2000:01:06 00:22:52-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 660
+ImageHeight                     : 526
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 660x526
+======== 1986-06-00 17 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 17 Black Hills.jpg
+Directory                       : .
+FileSize                        : 582 kB
+FileModifyDate                  : 1999:12:22 21:18:28-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x528
+======== 1986-06-00 18 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 18 Black Hills.jpg
+Directory                       : .
+FileSize                        : 468 kB
+FileModifyDate                  : 1999:12:22 21:18:04-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 664
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 664x528
+======== 1986-06-00 19 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 19 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 437 kB
+FileModifyDate                  : 1999:12:22 21:22:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Robert Edward Houghton
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x530
+======== 1986-06-00 20 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 20 Black Hills.jpg
+Directory                       : .
+FileSize                        : 419 kB
+FileModifyDate                  : 1999:12:20 23:10:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 662
+ImageHeight                     : 486
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 662x486
+======== 1986-06-00 21 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 21 Black Hills.jpg
+Directory                       : .
+FileSize                        : 383 kB
+FileModifyDate                  : 2000:01:26 14:07:00-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x532
+======== 1986-06-00 22 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 22 Black Hills.jpg
+Directory                       : .
+FileSize                        : 418 kB
+FileModifyDate                  : 2000:01:26 13:35:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 664
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 664x528
+======== 1986-06-00 23 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 23 Black Hills.jpg
+Directory                       : .
+FileSize                        : 399 kB
+FileModifyDate                  : 2000:01:26 14:12:02-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x532
+======== 1986-06-00 24 Black Hills.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 24 Black Hills.jpg
+Directory                       : .
+FileSize                        : 394 kB
+FileModifyDate                  : 1999:12:20 23:06:56-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 612
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 612x528
+======== 1986-06-00 25 Mt Rushmoor.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 25 Mt Rushmoor.jpg
+Directory                       : .
+FileSize                        : 337 kB
+FileModifyDate                  : 2000:01:26 22:04:58-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Mt Rushmoor..Black Hills South Dakota
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 540
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x540
+======== 1986-06-00 26 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 26 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 468 kB
+FileModifyDate                  : 1999:12:20 23:06:22-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 536
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x536
+======== 1986-06-00 27 Rob and Patty.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 27 Rob and Patty.jpg
+Directory                       : .
+FileSize                        : 398 kB
+FileModifyDate                  : 1999:12:20 23:46:40-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Robert Edward Houghton (2)..Patricia Ann Morris (24)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 616
+ImageHeight                     : 492
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 616x492
+======== 1986-06-00 28 Rob and Patty.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 28 Rob and Patty.jpg
+Directory                       : .
+FileSize                        : 489 kB
+FileModifyDate                  : 2000:01:04 00:29:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 Black Hills South Dakota..Robert Edward Houghton (2)..Patricia Ann Morris (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 648
+ImageHeight                     : 536
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 648x536
+======== 1986-06-00 29 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 29 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 383 kB
+FileModifyDate                  : 1999:12:20 23:28:10-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 646
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 646x534
+======== 1986-06-00 30 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 30 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 356 kB
+FileModifyDate                  : 1999:12:22 21:34:14-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x534
+======== 1986-06-00 31 Justin Rob Patty.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-06-00 31 Justin Rob Patty.jpg
+Directory                       : .
+FileSize                        : 502 kB
+FileModifyDate                  : 1999:12:22 21:26:52-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Justin Cross..Robert Edward Houghton (2)..Patricia Ann Morris (24)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 648
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 648x532
+======== 1986-10-09 01 Paul Birthday Cake.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-10-09 01 Paul Birthday Cake.jpg
+Directory                       : .
+FileSize                        : 406 kB
+FileModifyDate                  : 1999:12:22 21:48:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : October 9 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Paul Alexander Houghton (24) birthday cake
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 666
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 666x530
+======== 1986-10-09 Paul Birthday Cake.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-10-09 Paul Birthday Cake.jpg
+Directory                       : .
+FileSize                        : 432 kB
+FileModifyDate                  : 2000:01:04 00:32:06-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : October 9 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Paul Alexander Houghton (24) birthday cake
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 740
+ImageHeight                     : 606
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 740x606
+======== 1986-10-31 01 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-10-31 01 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 356 kB
+FileModifyDate                  : 1999:12:22 21:29:04-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : October 31 1986 Rapid City South Dakota..neighbor house..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 728
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 728x530
+======== 1986-10-31 02 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-10-31 02 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 417 kB
+FileModifyDate                  : 1999:12:22 21:30:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : October 31 1986 Rapid City South Dakota..neighbor house..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 524
+ImageHeight                     : 670
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 524x670
+======== 1986-11-00 01 Nancy Kay Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-11-00 01 Nancy Kay Colquhoun.jpg
+Directory                       : .
+FileSize                        : 677 kB
+FileModifyDate                  : 2000:01:09 22:07:50-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 ?..Nancy Kay Colquhoun
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 705
+ImageHeight                     : 998
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 705x998
+======== 1986-11-00 02 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-11-00 02 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 164 kB
+FileModifyDate                  : 2000:01:05 11:32:36-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1986 ?..Carol Lynn Colquhoun
+ImageWidth                      : 542
+ImageHeight                     : 740
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 542x740
+======== 1986-11-00 03 Nicole Grover.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-11-00 03 Nicole Grover.jpg
+Directory                       : .
+FileSize                        : 79 kB
+FileModifyDate                  : 2000:01:09 22:03:06-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 ?..Nicole Grover
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 233
+ImageHeight                     : 336
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 233x336
+======== 1986-11-00 03 Scan021_Pic026.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-11-00 03 Scan021_Pic026.jpg
+Directory                       : .
+FileSize                        : 378 kB
+FileModifyDate                  : 2000:01:04 01:06:20-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x534
+======== 1986-11-00 04 Elizabeth Olding.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-11-00 04 Elizabeth Olding.jpg
+Directory                       : .
+FileSize                        : 69 kB
+FileModifyDate                  : 2000:01:09 22:02:40-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1986 ? ..Elizabeth Olding
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 231
+ImageHeight                     : 331
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 231x331
+======== 1986-12-00 -2 Turky.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-00 -2 Turky.jpg
+Directory                       : .
+FileSize                        : 463 kB
+FileModifyDate                  : 2005:01:23 06:28:12-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 870
+ExifImageHeight                 : 710
+XPComment                       : December 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Turkey (cat)
+ImageWidth                      : 870
+ImageHeight                     : 710
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 870x710
+======== 1986-12-00 01 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-00 01 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 254 kB
+FileModifyDate                  : 1999:12:22 21:33:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 1986 Rapid City South Dakota..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 513
+ImageHeight                     : 641
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 513x641
+======== 1986-12-09 01.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-09 01.jpg
+Directory                       : .
+FileSize                        : 467 kB
+FileModifyDate                  : 2005:01:23 08:27:36-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 672
+ExifImageHeight                 : 942
+ImageWidth                      : 672
+ImageHeight                     : 942
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 672x942
+======== 1986-12-09 02.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-09 02.jpg
+Directory                       : .
+FileSize                        : 194 kB
+FileModifyDate                  : 2005:01:23 08:28:36-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 723
+ExifImageHeight                 : 963
+ImageWidth                      : 723
+ImageHeight                     : 963
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 723x963
+======== 1986-12-25 01 Christmas Tree.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 01 Christmas Tree.jpg
+Directory                       : .
+FileSize                        : 403 kB
+FileModifyDate                  : 1999:12:20 23:28:36-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Christmas Tree..Bandit (dog)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 474
+ImageHeight                     : 664
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 474x664
+======== 1986-12-25 02 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 02 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 376 kB
+FileModifyDate                  : 1999:12:22 21:34:32-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x528
+======== 1986-12-25 03 Rob and Bandit.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 03 Rob and Bandit.jpg
+Directory                       : .
+FileSize                        : 404 kB
+FileModifyDate                  : 1999:12:22 21:36:46-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)..Bandit
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 662
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 662x530
+======== 1986-12-25 04 Paul and Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 04 Paul and Rob.jpg
+Directory                       : .
+FileSize                        : 380 kB
+FileModifyDate                  : 1999:12:22 21:38:58-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Paul Alexander Houghton (24)..Robert Edward Houghton(2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 524
+ImageHeight                     : 660
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 524x660
+======== 1986-12-25 05 Paul and Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 05 Paul and Rob.jpg
+Directory                       : .
+FileSize                        : 388 kB
+FileModifyDate                  : 1999:12:22 21:39:12-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Paul Alexander Houghton (24)..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 526
+ImageHeight                     : 662
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 526x662
+======== 1986-12-25 06 Paul and Rob.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 06 Paul and Rob.jpg
+Directory                       : .
+FileSize                        : 218 kB
+FileModifyDate                  : 1999:12:22 21:39:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Paul Alexander Houghton (24)..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 530
+ImageHeight                     : 648
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 530x648
+======== 1986-12-25 07 Rob and Paul.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 07 Rob and Paul.jpg
+Directory                       : .
+FileSize                        : 355 kB
+FileModifyDate                  : 1999:12:20 23:27:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Paul Edward Houghton (24)..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 474
+ImageHeight                     : 662
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 474x662
+======== 1986-12-25 08 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 08 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 402 kB
+FileModifyDate                  : 1999:12:22 21:36:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 648
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 648x532
+======== 1986-12-25 09 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 09 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 364 kB
+FileModifyDate                  : 1999:12:22 21:37:04-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 646
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 646x532
+======== 1986-12-25 10 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 10 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 381 kB
+FileModifyDate                  : 1999:12:22 21:44:30-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 516
+ImageHeight                     : 662
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 516x662
+======== 1986-12-25 11 Robert Edward Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1986-12-25 11 Robert Edward Houghton.jpg
+Directory                       : .
+FileSize                        : 432 kB
+FileModifyDate                  : 1999:12:22 21:44:40-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1986 home @ Rt 11, Box 150..Rapid City SD 57702..Robert Edward Houghton
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 526
+ImageHeight                     : 666
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 526x666
+   81 image files read

@@ -1,0 +1,649 @@
+======== 1996-12-00 02 Patricia Ann Morris.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Patricia Ann Morris (36)
+ImageSize                       : 583x855
+======== 1997-04-00 01 Ryan Allen Houghton.jpg
+XPComment                       : 1997 ?..Ryan Allen Houghton (7)
+ImageSize                       : 1188x774
+======== 1997-04-00 02 Endo.jpg
+XPComment                       : 1997 ? Rob's Room..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Endo (cat)
+ImageSize                       : 1170x792
+======== 1997-04-00 03 Gus and Bobo.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Gus (dog)..Bobo (dog)
+ImageSize                       : 1174x792
+======== 1997-04-00 04 Gus and Bobo.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Gus (dog)..Bobo (dog)
+ImageSize                       : 1188x782
+======== 1997-04-00 05 Gus and Bobo.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Gus (dog)..Bobo (dog)
+ImageSize                       : 1182x785
+======== 1997-04-00 06 Gus and Bobo.jpg
+ImageSize                       : 1174x792
+======== 1997-04-00 06 Patricia Ann Morris.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Patricia Ann Morris (35)
+ImageSize                       : 1188x782
+======== 1997-04-00 07 Robert Edward Houghton.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+ImageSize                       : 1184x786
+======== 1997-04-00 08 Rob and Ryan.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)..Ryan Allen Houghton (7)
+ImageSize                       : 1181x788
+======== 1997-04-00 09 Ryan and Rob.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)..Robert Edward Houghton (12)
+ImageSize                       : 1188x782
+======== 1997-04-00 10 Robert Edward Houghton.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+ImageSize                       : 1178x792
+======== 1997-04-00 11 Rob and Ryan.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)..Ryan Allen Houghton (7)
+ImageSize                       : 1181x795
+======== 1997-04-00 12 Rob and Ryan.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)..Ryan Allen Houghton (7)
+ImageSize                       : 1195x774
+======== 1997-04-00 13 Rob and Ryan.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)..Ryan Allen Houghton (7)
+ImageSize                       : 1174x789
+======== 1997-04-00 14 Ryan and Rob.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)..Robert Edward Houghton (12)
+ImageSize                       : 1185x778
+======== 1997-04-00 15 Kane and Copey.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Kane Pull..Copey
+ImageSize                       : 1185x778
+======== 1997-04-00 16 Ryan Allen Houghton.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)
+ImageSize                       : 1178x786
+======== 1997-04-00 17.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan's Toy
+ImageSize                       : 1188x782
+======== 1997-04-00 18 Tanya and Mike.jpg
+XPComment                       : Tanya and Mike..Canoe Creek Dr S..Colorado Springs Colorado 80906
+ImageSize                       : 1188x782
+======== 1997-04-00 19 Rob and Mike.jpg
+XPComment                       : 1997 ?..Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)..Mike
+ImageSize                       : 1178x792
+======== 1997-04-00 21 Bob and Rob.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Dean Welsh (56)..Robert Edward Houghton (12)
+ImageSize                       : 1189x782
+======== 1997-04-00 22 Ryan Bob Rob.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)..Robert Dean Welsh (56)..Robert Edward Houghton (12)
+ImageSize                       : 774x1185
+======== 1997-04-00 23 Ryan Bob Rob.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)..Robert Dean Welsh (56)..Robert Edward Houghton (12)
+ImageSize                       : 788x1185
+======== 1997-04-00 24 Ryan Bob Rob.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)..Robert Dean Welsh (56)..Robert Edward Houghton (12)
+ImageSize                       : 774x1181
+======== 1997-04-00 26 Endo.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Endo (cat)
+ImageSize                       : 1182x788
+======== 1997-04-00 27 Robert Edward Houghton.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+ImageSize                       : 1184x792
+======== 1997-04-00 28 Ian Izzett.jpg
+XPComment                       : 1997 ? home 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ian Izzett
+ImageSize                       : 1188x782
+======== 1997-04-00 29 Rob Room.jpg
+ImageSize                       : 1188x782
+======== 1997-08-00 01 Nancy and Eric.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Colorado Springs..Nancy Kay Colquhoun (27)..Eric Hull
+ImageSize                       : 727x425
+======== 1997-08-00 02 Garden of Gods.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Garden of the Gods..Colorado Springs Colorado..Robert Edward Houghton (13)..Nancy Kay Colquhoun (27)..Ryan Allen Houghton (8)..Patricia Ann Morris (35)..Paul Alexander Houghton (34)
+ImageSize                       : 744x534
+======== 1997-08-00 03 Garden of Gods.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Garden of the Gods..Colorado Springs Colorado..Robert Edward Houghton (13)..Nancy Kay Colquhoun (27)..Ryan Allen Houghton (8)..Eric Hull
+ImageSize                       : 880x602
+======== 1997-08-00 04 Garden of Gods.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Garden of the Gods..Colorado Springs Colorado..Robert Edward Houghton (13)..Paul Alexander Houghton (34)..Nancy Kay Colquhoun (27)..Ryan Allen Houghton (8)..Eric Hull
+ImageSize                       : 884x604
+======== 1997-08-00 05 Rob Nancy Eric.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 North Cheyenne Canyon Park..Colorado Springs Colorado..Robert Edward Houghton (13)..Nancy Kay Colquhoun (27)..Eric Hull
+ImageSize                       : 870x592
+======== 1997-08-00 06 Cheyenne Mtn Zoo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado
+ImageSize                       : 872x606
+======== 1997-08-00 07 Cheyenne Mtn Zoo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado
+ImageSize                       : 878x604
+======== 1997-08-00 08 Cheyenne Mtn Zoo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado
+ImageSize                       : 866x606
+======== 1997-08-00 09 Cheyenne Mtn Zoo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado
+ImageSize                       : 880x604
+======== 1997-08-00 10 Cheyenne Mtn Zoo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado
+ImageSize                       : 866x610
+======== 1997-08-00 11 Cheyenne Mtn Zoo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado
+ImageSize                       : 868x606
+======== 1997-08-00 12 Nancy and Eric.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado..Nancy Kay Colquhoun (27)..Eric Hull
+ImageSize                       : 878x604
+======== 1997-08-00 13 Cheyenne Mtn Zoo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 1997 Cheyenne Mountain Zoo..Colorado Springs Colorado
+ImageSize                       : 861x598
+======== 1997-09-00 01 Front Yard.jpg
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 878x602
+======== 1997-09-00 02 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 866x606
+======== 1997-09-00 03 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 868x610
+======== 1997-09-00 04 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 870x606
+======== 1997-09-00 05 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 870x610
+======== 1997-09-00 06 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 868x592
+======== 1997-09-00 07 Back Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Back Yard
+ImageSize                       : 864x606
+======== 1997-09-00 08 Back Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Back Yard
+ImageSize                       : 868x606
+======== 1997-09-00 09 Gus and Bobo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Gus (dog)..Bobo (dog)
+ImageSize                       : 870x608
+======== 1997-09-00 10 Backyard.jpg
+XPComment                       : 1997 ? Backyard..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906
+ImageSize                       : 1196x788
+======== 1997-09-10 02 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 Otero Elementary School..Colorado Springs Colorado..Ryan Allen Houghton (8)
+ImageSize                       : 498x769
+======== 1997-10-01 02 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1998 Otero Elementary..Colorado Springs Colorado..Ryan Allen Houghton (9)
+ImageSize                       : 707x991
+======== 1997-10-01 03.jpg
+ImageSize                       : 986x1380
+======== 1997-10-01 04.jpg
+ImageSize                       : 638x402
+======== 1997-10-01 05 Ryan Class Picture.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1997 Otero Elementary..Colorado Springs Colorado..Ryan Allen Houghton (8)..2nd row 4th from left
+ImageSize                       : 1115x925
+======== 1997-12-00 01 Eric Nancy Britney.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 1997..Eric Hull..Nancy Kay Colquhoun (27)..Britney Hull
+ImageSize                       : 511x729
+======== 1997-12-00 03 Christmas Tree.jpg
+XPComment                       : December 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 602x878
+======== 1997-12-00 04 Christmas Tree.jpg
+XPComment                       : December 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 602x878
+======== 1997-12-25 01 Christmas Tree.jpg
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 888x588
+======== 1997-12-25 010700 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:07:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Patricia Ann Morris (35)
+CurrentIPTCDigest               : b1ec4e60d3ed42057ad2abacb4e5faf4
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Patricia Ann Houghton(35)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1170x810
+======== 1997-12-25 010800 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:08:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+CurrentIPTCDigest               : 267716edfb3a1c203dc25fd90e914b10
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Robert E Houghton(12)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1178x810
+======== 1997-12-25 010900 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:09:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (34)..Robert Edward Houghton (12)..Ryan Allen Houghton (7)
+CurrentIPTCDigest               : f54963c42834141929dc0f129af5d2dd
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Paul A Houghton(34).Robert E Houghton(12).Ryan A Houghton(7)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1181x789
+======== 1997-12-25 011000 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:10:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)..Ryan Allen Houghton (7)
+CurrentIPTCDigest               : c38b3a01de62bb05b5b2258b31ef3f85
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Robert E Houghton(12).Ryan A Houghton(7)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1181x792
+======== 1997-12-25 011100 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:11:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)
+CurrentIPTCDigest               : c0c089c73726b1ba3993521fc6065f6f
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Ryan A Houghton(7)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 792x1181
+======== 1997-12-25 011200 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:12:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)
+CurrentIPTCDigest               : c0c089c73726b1ba3993521fc6065f6f
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Ryan A Houghton(7)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1177x786
+======== 1997-12-25 011300 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:13:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (34)
+CurrentIPTCDigest               : 7875594ddb3fb7673b18193a501dce14
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Paul A Houghton(34)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1178x786
+======== 1997-12-25 011400 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:14:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (34)
+CurrentIPTCDigest               : 7875594ddb3fb7673b18193a501dce14
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Paul A Houghton(34)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1177x792
+======== 1997-12-25 011500 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:15:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (34)..Robert Edward Houghton (12)
+CurrentIPTCDigest               : 5b1e73a392513d1eadc2e78f9097bc58
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Paul A Houghton(34).Robert E Houghton(12)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1195x782
+======== 1997-12-25 011600 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:16:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Patricia Ann Morris (35)
+CurrentIPTCDigest               : b1ec4e60d3ed42057ad2abacb4e5faf4
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Patricia Ann Houghton(35)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1196x782
+======== 1997-12-25 011700 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:17:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+CurrentIPTCDigest               : 267716edfb3a1c203dc25fd90e914b10
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Robert E Houghton(12)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1174x789
+======== 1997-12-25 011800 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:18:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (7)..Endo (cat)
+CurrentIPTCDigest               : c0c089c73726b1ba3993521fc6065f6f
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Ryan A Houghton(7)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1192x785
+======== 1997-12-25 011900 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:19:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Patricia Ann Morris (35)..Paul Alexander Houghton (34)
+CurrentIPTCDigest               : 5873455262c68ce17d4fc0e3cfffd527
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Patricia Ann Houghton(35).Paul A Houghton(34)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1192x785
+======== 1997-12-25 012000 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:20:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Patricia Ann Morris (35)
+CurrentIPTCDigest               : b1ec4e60d3ed42057ad2abacb4e5faf4
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Patricia Ann Houghton(35)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1177x792
+======== 1997-12-25 012100 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:21:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+CurrentIPTCDigest               : 267716edfb3a1c203dc25fd90e914b10
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Robert E Houghton(12)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1182x774
+======== 1997-12-25 012200 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:22:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Endo (cat)
+CurrentIPTCDigest               : 527ec65478b58dbc17cbc28c39f73f53
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Endo
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1178x792
+======== 1997-12-25 012300 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:23:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906
+CurrentIPTCDigest               : 38cfb334ebb5c77da7eb7e9b92462897
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Toys
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1182x795
+======== 1997-12-25 012400 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:24:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Endo (cat)
+CurrentIPTCDigest               : 527ec65478b58dbc17cbc28c39f73f53
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Endo
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1171x789
+======== 1997-12-25 012700 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:27:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+CurrentIPTCDigest               : 267716edfb3a1c203dc25fd90e914b10
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Robert E Houghton(12)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1182x785
+======== 1997-12-25 012800 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:28:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+CurrentIPTCDigest               : 267716edfb3a1c203dc25fd90e914b10
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Robert E Houghton(12)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1177x792
+======== 1997-12-25 012900 Christmas.jpg
+DateTimeOriginal                : 1996:12:25 01:29:00
+GPSVersionID                    : 2.3.0.0
+GPSLatitudeRef                  : North
+GPSLongitudeRef                 : West
+XPComment                       : December 25 1996 home..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (12)
+CurrentIPTCDigest               : 267716edfb3a1c203dc25fd90e914b10
+ObjectName                      : Christmas
+Keywords                        : Houghton
+City                            : Colorado Springs
+Province-State                  : CO
+Caption-Abstract                : Robert E Houghton(12)
+ApplicationRecordVersion        : 4
+XMPToolkit                      : Image::ExifTool 8.65
+Location                        : 1326 Canoe Creek Dr. S.
+GPSLatitude                     : 38.77106300 N
+GPSLongitude                    : 104.80447000 W
+GPSPosition                     : 38.77106300 N, 104.80447000 W
+ImageSize                       : 1188x778
+======== 1997-12-25 02 Rob and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (13)..Ryan Allen Houghton (8)
+ImageSize                       : 878x604
+======== 1997-12-25 03 Ryan and Rob.jpg
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (8)..Robert Edward Houghton (13)
+ImageSize                       : 890x590
+======== 1997-12-25 04 Rob and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (13)..Ryan Allen Houghton (8)
+ImageSize                       : 878x602
+======== 1997-12-25 05 Ryan Allen Houghton.jpg
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (8)
+ImageSize                       : 888x588
+======== 1997-12-25 06 Ryan and Rob.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (8)..Robert Edward Houghton (13)
+ImageSize                       : 882x602
+======== 1997-12-25 07 Paul and Rob.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (35)..Robert Edward Houghton (13)
+ImageSize                       : 868x608
+======== 1997-12-25 08 Rob and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (13)..Ryan Allen Houghton (8)
+ImageSize                       : 880x602
+======== 1997-12-25 09 Paul and Rob.jpg
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (35)..Robert Edward Houghton (13)
+ImageSize                       : 890x588
+======== 1997-12-25 10 Robert Edward Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (13)
+ImageSize                       : 878x602
+======== 1997-12-25 11 Paul and Ryan.jpg
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (35)..Ryan Allen Houghton (8)
+ImageSize                       : 888x588
+======== 1997-12-25 12 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 882x604
+======== 1997-12-25 13 Patty Flowers.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1997..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Patty's Flowers
+ImageSize                       : 588x888
+   94 image files read

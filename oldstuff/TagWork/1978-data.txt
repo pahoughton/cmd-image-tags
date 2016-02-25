@@ -1,0 +1,770 @@
+======== 1977-10-01 02 Carol Class Pic.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1977-10-01 02 Carol Class Pic.jpg
+Directory                       : .
+FileSize                        : 677 kB
+FileModifyDate                  : 2000:03:29 04:35:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1978 Melvin E Sine School..Glendale Arizona..Carol Lynn Colquhoun (5)..back row 3rd from right
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 966
+ImageHeight                     : 665
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 966x665
+======== 1977-10-01 03 Carol School Pic.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1977-10-01 03 Carol School Pic.jpg
+Directory                       : .
+FileSize                        : 290 kB
+FileModifyDate                  : 2000:03:26 04:58:52-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 Melvin E Sine School..Glendale Arizona..Carol Lynn Colquhoun (5)
+ImageWidth                      : 703
+ImageHeight                     : 970
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 703x970
+======== 1978-01-00 01 Paul Paper Boy Award.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-01-00 01 Paul Paper Boy Award.jpg
+Directory                       : .
+FileSize                        : 1411 kB
+FileModifyDate                  : 2000:01:09 01:47:58-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : January 1978..Paper Boy Award for..Paul Alexander Houghton (15)
+ImageWidth                      : 1641
+ImageHeight                     : 1255
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 1641x1255
+======== 1978-02-20-scan0303.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-02-20-scan0303.jpg
+Directory                       : .
+FileSize                        : 387 kB
+FileModifyDate                  : 2005:01:22 19:42:28-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 856
+ExifImageHeight                 : 694
+ImageWidth                      : 856
+ImageHeight                     : 694
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 856x694
+======== 1978-03-15 01 scan0305.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-03-15 01 scan0305.jpg
+Directory                       : .
+FileSize                        : 418 kB
+FileModifyDate                  : 2005:01:22 19:44:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 966
+ExifImageHeight                 : 704
+ImageWidth                      : 966
+ImageHeight                     : 704
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 966x704
+======== 1978-04-01 01 Carol Baby 058.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-01 01 Carol Baby 058.jpg
+Directory                       : .
+FileSize                        : 62 kB
+FileModifyDate                  : 2000:05:18 05:30:14-06:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 432
+ImageHeight                     : 675
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 432x675
+======== 1978-04-01 02 Carol Baby 035.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-01 02 Carol Baby 035.jpg
+Directory                       : .
+FileSize                        : 431 kB
+FileModifyDate                  : 2000:03:29 04:19:44-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 504
+ImageHeight                     : 720
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 504x720
+======== 1978-04-01 03 Paul_Pg40p03.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-01 03 Paul_Pg40p03.jpg
+Directory                       : .
+FileSize                        : 386 kB
+FileModifyDate                  : 2000:01:06 04:23:24-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 726
+ImageHeight                     : 544
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 726x544
+======== 1978-04-01 scan0306.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-01 scan0306.jpg
+Directory                       : .
+FileSize                        : 431 kB
+FileModifyDate                  : 2005:01:22 19:44:46-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 966
+ExifImageHeight                 : 703
+ImageWidth                      : 966
+ImageHeight                     : 703
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 966x703
+======== 1978-04-01 scan0307.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-01 scan0307.jpg
+Directory                       : .
+FileSize                        : 391 kB
+FileModifyDate                  : 2005:01:22 19:45:10-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 966
+ExifImageHeight                 : 704
+ImageWidth                      : 966
+ImageHeight                     : 704
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 966x704
+======== 1978-04-02 04 Scan021_Pic024.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-02 04 Scan021_Pic024.jpg
+Directory                       : .
+FileSize                        : 448 kB
+FileModifyDate                  : 2000:01:04 01:05:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 674
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 674x528
+======== 1978-04-02 05 Scan021_Pic022.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-02 05 Scan021_Pic022.jpg
+Directory                       : .
+FileSize                        : 444 kB
+FileModifyDate                  : 2000:01:04 01:03:58-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 672
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 672x528
+======== 1978-04-02 06 Scan029_Pic013.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-02 06 Scan029_Pic013.jpg
+Directory                       : .
+FileSize                        : 454 kB
+FileModifyDate                  : 2000:01:09 22:07:24-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 674
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 674x530
+======== 1978-04-02 07 Scan029_Pic015.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-02 07 Scan029_Pic015.jpg
+Directory                       : .
+FileSize                        : 426 kB
+FileModifyDate                  : 2000:01:09 22:09:12-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 674
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 674x528
+======== 1978-04-02 08 Scan031_Pic015.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-04-02 08 Scan031_Pic015.jpg
+Directory                       : .
+FileSize                        : 160 kB
+FileModifyDate                  : 2000:01:12 23:55:50-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ImageWidth                      : 536
+ImageHeight                     : 662
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 536x662
+======== 1978-08-01 02 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-01 02 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 183 kB
+FileModifyDate                  : 2000:03:26 04:48:28-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Carol Lynn Colquhoun (6)
+ImageWidth                      : 594
+ImageHeight                     : 872
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 594x872
+======== 1978-08-01 03 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-01 03 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 181 kB
+FileModifyDate                  : 2000:03:26 04:50:14-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Carol Lynn Colquhoun (6)
+ImageWidth                      : 598
+ImageHeight                     : 859
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 598x859
+======== 1978-08-01 04 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-01 04 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 176 kB
+FileModifyDate                  : 2000:03:26 04:50:06-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Carol Lynn Colquhoun (6)
+ImageWidth                      : 605
+ImageHeight                     : 849
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 605x849
+======== 1978-08-02 06 Nancy Kay Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-02 06 Nancy Kay Colquhoun.jpg
+Directory                       : .
+FileSize                        : 192 kB
+FileModifyDate                  : 2000:03:26 04:55:42-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Nancy Kay Colquhoun (8)
+ImageWidth                      : 606
+ImageHeight                     : 874
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 606x874
+======== 1978-08-02 07 Nancy Kay Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-02 07 Nancy Kay Colquhoun.jpg
+Directory                       : .
+FileSize                        : 191 kB
+FileModifyDate                  : 2000:03:26 04:57:00-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Nancy Kay Colquhoun (8)
+ImageWidth                      : 608
+ImageHeight                     : 880
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 608x880
+======== 1978-08-03 08 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-03 08 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 172 kB
+FileModifyDate                  : 2000:03:26 04:48:22-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)
+ImageWidth                      : 608
+ImageHeight                     : 876
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 608x876
+======== 1978-08-03 09 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-03 09 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 159 kB
+FileModifyDate                  : 2000:03:26 04:57:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)
+ImageWidth                      : 577
+ImageHeight                     : 849
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 577x849
+======== 1978-08-03 11 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-03 11 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 164 kB
+FileModifyDate                  : 2000:03:26 04:58:46-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)
+ImageWidth                      : 598
+ImageHeight                     : 857
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 598x857
+======== 1978-08-04 12 Paul Nancy Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-04 12 Paul Nancy Carol.jpg
+Directory                       : .
+FileSize                        : 467 kB
+FileModifyDate                  : 2000:03:26 04:46:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)..Nancy Kay Colquhoun (8)..Carol Lynn Colquhoun (6)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 590
+ImageHeight                     : 896
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 590x896
+======== 1978-08-04 13 Paul Nancy Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-04 13 Paul Nancy Carol.jpg
+Directory                       : .
+FileSize                        : 209 kB
+FileModifyDate                  : 2000:03:26 04:51:32-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)..Nancy Kay Colquhoun (8)..Carol Lynn Colquhoun (6)
+ImageWidth                      : 608
+ImageHeight                     : 878
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 608x878
+======== 1978-08-04 14 Paul Nancy Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-04 14 Paul Nancy Carol.jpg
+Directory                       : .
+FileSize                        : 197 kB
+FileModifyDate                  : 2000:03:26 04:51:36-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)..Nancy Kay Colquhoun (8)..Carol Lynn Colquhoun (6)
+ImageWidth                      : 608
+ImageHeight                     : 876
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 608x876
+======== 1978-08-04 15 Paul Nancy Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-04 15 Paul Nancy Carol.jpg
+Directory                       : .
+FileSize                        : 198 kB
+FileModifyDate                  : 2000:03:26 04:52:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)..Nancy Kay Colquhoun (8)..Carol Lynn Colquhoun (6)
+ImageWidth                      : 608
+ImageHeight                     : 876
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 608x876
+======== 1978-08-04 16 Paul Nancy Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-04 16 Paul Nancy Carol.jpg
+Directory                       : .
+FileSize                        : 197 kB
+FileModifyDate                  : 2000:03:26 04:53:00-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)..Nancy Kay Colquhoun (8)..Carol Lynn Colquhoun (6)
+ImageWidth                      : 606
+ImageHeight                     : 874
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 606x874
+======== 1978-08-04 17 Paul Nancy Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-08-04 17 Paul Nancy Carol.jpg
+Directory                       : .
+FileSize                        : 196 kB
+FileModifyDate                  : 2000:03:26 04:55:34-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : 1978 ? Pheonix Arizona..Paul Alexander Houghton (15)..Nancy Kay Colquhoun (8)..Carol Lynn Colquhoun (6)
+ImageWidth                      : 598
+ImageHeight                     : 868
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 598x868
+======== 1978-10-01 20050122 01 scan0371.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-10-01 20050122 01 scan0371.jpg
+Directory                       : .
+FileSize                        : 203 kB
+FileModifyDate                  : 2005:01:22 21:42:50-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 300
+YResolution                     : 300
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 486
+ExifImageHeight                 : 676
+ImageWidth                      : 486
+ImageHeight                     : 676
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 486x676
+======== 1978-12-25 01 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-12-25 01 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 378 kB
+FileModifyDate                  : 2000:03:26 04:16:14-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1978 home @ 5047 W Belmont..Glendale Arizona..Carol Lynn Colquhoun (6)..Paul Alexander Houghton (16) on knees
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 652
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 652x532
+======== 1978-12-25 02 Carol Paul Nancy.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-12-25 02 Carol Paul Nancy.jpg
+Directory                       : .
+FileSize                        : 183 kB
+FileModifyDate                  : 2000:01:11 23:35:26-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : December 25 1978 home @ 5047 W Belmont..Glendale Arizona..Carol Lynn Colquhoun (6)..Paul Alexander Houghton (16)..Nancy Kay Colquhoun (8)
+ImageWidth                      : 660
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 660x528
+======== 1978-12-25 03 Paul and Nicole.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1978-12-25 03 Paul and Nicole.jpg
+Directory                       : .
+FileSize                        : 373 kB
+FileModifyDate                  : 2000:01:06 04:16:34-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1978 home @ 5047 W Belmont..Glendale Arizona..Paul Alexander Houghton (16)..Nicole Grover (2 ?)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 674
+ImageHeight                     : 538
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 674x538
+   33 image files read

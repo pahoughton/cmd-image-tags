@@ -1,0 +1,15 @@
+for fn in 1985-08-17\ ??\ Jo*; do
+min=`echo $fn | sed 's/1985-08-17 \(..\) .*/\1/'`
+
+echo exiftool -overwrite_original \
+    -Keywords=Houghton \
+    -DateTimeOriginal="1985-08-17 01:$min:00" \
+    -Location="Hawaii" \
+    -Province-State=HI \
+    -GPSLatitudeRef=N -GPSLongitudeRef=W \
+    -GPSLatitude=20.311255 \
+    -GPSLongitude=-156.152574 \
+    -ObjectName="John & Joan's Honeymoon" \
+    -Caption-Abstract="John & Joan's Honeymoon" \
+    "$fn"
+done

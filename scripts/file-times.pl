@@ -24,15 +24,15 @@ foreach my $fn (@ARGV) {
     my $fdc;
     my $fyr;
     my $fdate;
-    foreach my $k (sort(keys(%$meta))) {
-      foreach my $df (@dtFlds) {
-	if( defined( $meta->{$df} )
-	    && $meta->{$df} =~ /(\d+)(\d):(\d+):(\d+) (\d+):(\d+):(\d+)/ ) {
-	  my ($dec,$dyr,$mo,$dt,$hr,$mn,$sc) = ($1,$2,$3,$4,$5,$6,$7);
-	  $fdc = $dec."0";
-	  $fyr = "$dec$dyr";
-	  $fdate = "$fyr-$mo-$dt.$hr$mn$sc";
-	}
+    my $dfused;
+    foreach my $df (@dtFlds) {
+      if( defined( $meta->{$df} )
+	  && $meta->{$df} =~ /(\d+)(\d):(\d+):(\d+) (\d+):(\d+):(\d+)/ ) {
+	my ($dec,$dyr,$mo,$dt,$hr,$mn,$sc) = ($1,$2,$3,$4,$5,$6,$7);
+	$fdc = $dec."0";
+	$fyr = "$dec$dyr";
+	$fdate = "$fyr-$mo-$dt.$hr$mn$sc";
+	$dfused = $df;
       }
     }
     $rest =~ s~^-~~;
@@ -51,13 +51,16 @@ foreach my $fn (@ARGV) {
       my $fstamp = "$yr-$mt-$dt.$hr$mn$sc";
       my $nfn = "$fstamp-$rest";
 
-      print "exiftool '$fn' -overwrite_original  -ModifyDate='$pstamp' -DateTimeOriginal='$pstamp' -CreateDate='$pstamp'\n";
+      print "exiftool '$fn' -overwrite_original  -DateTimeOriginal='$pstamp' -CreateDate='$pstamp'\n";
       die("no fdate $fn");
     }
     $rest =~ s~\s+~-~g;
     $rest =~ y/A-Z/a-z/;
     $destfn = "$fdate-$rest";
 
+    if( ! defined( $meta->{DateTimeOriginal} ) ) {
+      print "exiftool '$fn' -overwrite_original  -DateTimeOriginal='$fdate'\n";
+    }
   } else {
     die("name $fn");
   }
@@ -68,7 +71,7 @@ foreach my $fn (@ARGV) {
       die("exist $destfn");
     } else {
       print "rn $fn $destfn\n";
-      rename($fn,$destfn) || die("rn $destfn - $!");
+      # rename($fn,$destfn) || die("rn $destfn - $!");
     }
   } else {
     if( ! defined( $destfn ) ) {
@@ -76,28 +79,6 @@ foreach my $fn (@ARGV) {
     }
   }
 }
-
-#use DBI;
-#use DBD::Pg qw(:pg_types);
-#use File::Basename;
-#use File::Find;
-#use MP4::File;
-#use Meta::TMDb;
-#use Meta::IMDB;
-#use Term::ReadLine;
-#use Data::Dumper;
-#use POSIX;
-#use Text::CSV;
-#use DVD::Read;
-#use Encode;
-#use LWP;
-#use MP4::Info;
-#use XML::Parser;
-#use Imager;
-
-#my $dbh = DBI->connect('dsn','user','pass',
-#                       { RaiseError => 1, AutoCommit => 0 } );
-#
 
 ## Local Variables:
 ## mode:perl

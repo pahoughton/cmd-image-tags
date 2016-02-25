@@ -1,0 +1,11 @@
+exiftool -DateTimeOriginal='1968-10-09 01:00:00'  -overwrite_original -City="" -Province-State= -PostalCode= -Location="" -Keywords= -Caption-Abstract="" -ObjectName="" ""
+
+exiftool -d "%Y-%m-%d %H%M%S" -filename'<$DateTimeOriginal $ObjectName.jpg' *jpg
+
+exiftool -p 'exiftool -ObjectName="$Caption-Abstract" "$filename"' *jpg > setname.bash
+
+exiftool -overwrite_original -GPSLatitudeRef=N -GPSLongitudeRef=W -GPSLatitude='' -GPSLongitude=''
+
+exiftool -overwrite_original -tagsFromFile SRC -GPS:all  --Comment  DEST
+
+ exiftool -s -g -c "%.8f"

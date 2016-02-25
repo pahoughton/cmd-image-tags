@@ -1,0 +1,782 @@
+======== 1975-04-27 01 Paul First Communion.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27 01 Paul First Communion.jpg
+Directory                       : .
+FileSize                        : 2.1 MB
+FileModifyDate                  : 2000:01:10 03:39:32-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : April 27 1975 Our Lady of Perpetual Help..Paul Alexander Houghton (12)..First communion Certificate
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 992
+ImageHeight                     : 1612
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 992x1612
+======== 1975-04-27 02 Paul First Communion.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27 02 Paul First Communion.jpg
+Directory                       : .
+FileSize                        : 1990 kB
+FileModifyDate                  : 2000:01:10 03:41:42-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : April 27 1975..Paul Alexander Houghton (12)..First communion card from Mother
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 928
+ImageHeight                     : 1385
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 928x1385
+======== 1975-04-27 03 Paul First Communion.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27 03 Paul First Communion.jpg
+Directory                       : .
+FileSize                        : 844 kB
+FileModifyDate                  : 2000:01:11 20:28:30-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : April 27 1975 home @ 5047 W Belmont..Glendale Arizona..Paul First Communion Card..Jackie..Leslie Jane Grover (16)..Paul Alexander Houghton (12)..Joseph 'Scotty' Colquhoun..Nancy Kay Colquhoun (3)..Carol Lynn Colquhoun (2)
+ImageWidth                      : 1752
+ImageHeight                     : 1273
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 1752x1273
+======== 1975-04-27 04 Jackie Leslie Paul Scotty Nancy Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27 04 Jackie Leslie Paul Scotty Nancy Carol.jpg
+Directory                       : .
+FileSize                        : 336 kB
+FileModifyDate                  : 2000:01:10 03:44:28-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : April 27 1975 home @ 5047 W Belmont..Glendale Arizona..Paul First Communion..Jackie..Leslie Jane Grover (16)..Paul Alexander Houghton (12)..Joseph 'Scotty' Colquhoun..Nancy Kay Colquhoun (3)..Carol Lynn Colquhoun (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 654
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 654x532
+======== 1975-04-27 05 Paul Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27 05 Paul Carol.jpg
+Directory                       : .
+FileSize                        : 280 kB
+FileModifyDate                  : 2000:01:06 04:19:12-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : April 27 1975 home @ 5047 W Belmont..Glendale Arizona..Paul First Communion..Paul Alexander Houghton (12)..Carol Lynn Colquhoun (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 566
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 566x532
+======== 1975-04-27-scan0285.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27-scan0285.jpg
+Directory                       : .
+FileSize                        : 372 kB
+FileModifyDate                  : 2005:01:22 19:13:52-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 686
+ExifImageHeight                 : 908
+ImageWidth                      : 686
+ImageHeight                     : 908
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 686x908
+======== 1975-04-27-scan0287.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27-scan0287.jpg
+Directory                       : .
+FileSize                        : 375 kB
+FileModifyDate                  : 2005:01:22 19:15:46-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 877
+ExifImageHeight                 : 696
+ImageWidth                      : 877
+ImageHeight                     : 696
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 877x696
+======== 1975-04-27-scan0288.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-04-27-scan0288.jpg
+Directory                       : .
+FileSize                        : 351 kB
+FileModifyDate                  : 2005:01:22 19:16:16-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : HP
+Model                           : HP ScanJet 3970
+XResolution                     : 200
+YResolution                     : 200
+ResolutionUnit                  : inches
+YCbCrPositioning                : Co-sited
+ReferenceBlackWhite             : 0 255 128 255 128 255
+ExifVersion                     : 0220
+ComponentsConfiguration         : Y, Cb, Cr, -
+FlashpixVersion                 : 0100
+ColorSpace                      : sRGB
+ExifImageWidth                  : 877
+ExifImageHeight                 : 697
+ImageWidth                      : 877
+ImageHeight                     : 697
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+ImageSize                       : 877x697
+======== 1975-05-00 01 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-05-00 01 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 325 kB
+FileModifyDate                  : 2000:03:26 04:12:10-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ? home @ 5047 W Belmont..Glendale Arizona..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 506
+ImageHeight                     : 530
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 506x530
+======== 1975-06-00 01 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-00 01 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 275 kB
+FileModifyDate                  : 2000:03:26 04:12:42-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ?..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 566
+ImageHeight                     : 444
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 566x444
+======== 1975-06-00 02 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-00 02 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 267 kB
+FileModifyDate                  : 2000:03:26 04:12:54-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ?..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 558
+ImageHeight                     : 436
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 558x436
+======== 1975-06-01 01 Paul Merit Badge.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-01 01 Paul Merit Badge.jpg
+Directory                       : .
+FileSize                        : 240 kB
+FileModifyDate                  : 2000:01:06 04:13:44-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 1 1975..Paul Alexander Houghton (12)..Water Skiing Merit Badge
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 386
+ImageHeight                     : 574
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 386x574
+======== 1975-06-03 01 Paul 7th Grade Rpt Card.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-03 01 Paul 7th Grade Rpt Card.jpg
+Directory                       : .
+FileSize                        : 961 kB
+FileModifyDate                  : 2000:01:10 03:14:56-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : June 3, 1975 Melvin E Sine School..Glendale Arizona..Paul Alexander Houghton (12) Report Card
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 804
+ImageHeight                     : 1272
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 804x1272
+======== 1975-06-03 02 Paul 7th Grade Rpt Card.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-03 02 Paul 7th Grade Rpt Card.jpg
+Directory                       : .
+FileSize                        : 1031 kB
+FileModifyDate                  : 2000:01:11 20:29:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : June 3, 1975 Melvin E Sine School..Glendale Arizona..Paul Alexander Houghton (12) Report Card
+ImageWidth                      : 1650
+ImageHeight                     : 1257
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 1650x1257
+======== 1975-06-15 01 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-15 01 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 241 kB
+FileModifyDate                  : 2000:03:26 04:14:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ? ..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 630
+ImageHeight                     : 518
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 630x518
+======== 1975-06-15 02 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-15 02 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 263 kB
+FileModifyDate                  : 2000:03:26 04:19:50-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ? ..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 628
+ImageHeight                     : 518
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 628x518
+======== 1975-06-28 01 Paul MDA Carnival.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-28 01 Paul MDA Carnival.jpg
+Directory                       : .
+FileSize                        : 281 kB
+FileModifyDate                  : 2000:01:06 04:03:10-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : July 1975 ? home @ 5047 W Belmont ..Glendale Arizona..MDA Carnival put on by..Paul Alexander Houghton (12)..
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 660
+ImageHeight                     : 540
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 660x540
+======== 1975-06-28 02 Paul MDA Carnival.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-28 02 Paul MDA Carnival.jpg
+Directory                       : .
+FileSize                        : 309 kB
+FileModifyDate                  : 2000:01:06 04:03:18-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : July 1975 ? home @ 5047 W Belmont ..Glendale Arizona..MDA Carnival put on by..Paul Alexander Houghton (12)..
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 650
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 650x534
+======== 1975-06-28 03 Paul MDA Carnival.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-28 03 Paul MDA Carnival.jpg
+Directory                       : .
+FileSize                        : 312 kB
+FileModifyDate                  : 2000:01:06 04:04:36-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : July 1975 ? home @ 5047 W Belmont ..Glendale Arizona..MDA Carnival put on by..Paul Alexander Houghton (12) far left..Nancy Kay Colquhoun (5) right of Paul..
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 644
+ImageHeight                     : 532
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 644x532
+======== 1975-06-28 04 Paul MDA Carnival.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-06-28 04 Paul MDA Carnival.jpg
+Directory                       : .
+FileSize                        : 175 kB
+FileModifyDate                  : 2000:01:06 04:02:48-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : July 1975 ? home @ 5047 W Belmont ..Glendale Arizona..MDA Carnival put on by..Paul Alexander Houghton (12)..
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 358
+ImageHeight                     : 340
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 358x340
+======== 1975-07-28 01 Carol Birthday.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-07-28 01 Carol Birthday.jpg
+Directory                       : .
+FileSize                        : 61 kB
+FileModifyDate                  : 2000:05:18 05:20:40-06:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : July 28, 1975..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 569
+ImageHeight                     : 453
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 569x453
+======== 1975-08-00 01 Paul Alexander Houghton.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-08-00 01 Paul Alexander Houghton.jpg
+Directory                       : .
+FileSize                        : 321 kB
+FileModifyDate                  : 2000:01:09 23:44:12-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ? home @ 5047 W Belmont..Glendale Arizona..Cat fish caught @ Lake Pleasent by..Paul Alexander Houghton (12)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 662
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 662x528
+======== 1975-08-00 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-08-00 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 281 kB
+FileModifyDate                  : 2000:03:26 04:14:40-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ? home @ 5047 W Belmont..Glendale Arizona..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 642
+ImageHeight                     : 536
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 642x536
+======== 1975-09-00 01 Carol Lynn Colquhoun.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-09-00 01 Carol Lynn Colquhoun.jpg
+Directory                       : .
+FileSize                        : 339 kB
+FileModifyDate                  : 2000:03:26 04:18:00-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ? home @ 5047 W Belmont ..Glendale Arizona..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 506
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 506x534
+======== 1975-09-00 01 Paul Football Team.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-09-00 01 Paul Football Team.jpg
+Directory                       : .
+FileSize                        : 800 kB
+FileModifyDate                  : 2000:01:06 03:58:30-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 Melvin E Sine School..Glendale Arizona..8th Grade Football Team..Paul Alexander Houghton (12)..2nd Row 2nd from Left (#7)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 1040
+ImageHeight                     : 760
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 1040x760
+======== 1975-10-00 01 Nancy Paul Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-10-00 01 Nancy Paul Carol.jpg
+Directory                       : .
+FileSize                        : 240 kB
+FileModifyDate                  : 2000:03:26 04:18:10-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 ? home @ 5047 W Belmont..Glendale Arizona..Nancy Kay Colquhoun (5)..Paul Alexander Houghton (12)..Carol Lynn Colquhoun (3)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 500
+ImageHeight                     : 540
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 500x540
+======== 1975-11-00 01 Paul Class Pic.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-11-00 01 Paul Class Pic.jpg
+Directory                       : .
+FileSize                        : 849 kB
+FileModifyDate                  : 2000:01:06 03:57:20-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 Melvin E Sine School..Glendale Arizona..Paul Alexander Houghton (13) ..2nd row from bottom 4th from left (levi jacket)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 1044
+ImageHeight                     : 758
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 1044x758
+======== 1975-11-00 02 Paul School Pic.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-11-00 02 Paul School Pic.jpg
+Directory                       : .
+FileSize                        : 311 kB
+FileModifyDate                  : 2000:01:06 03:49:28-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : 1975 Melvin E Sine School..Glendale Arizona..Paul Alexander Houghton (13)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 457
+ImageHeight                     : 631
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 457x631
+======== 1975-12-14 01 Paul Confirmation.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-12-14 01 Paul Confirmation.jpg
+Directory                       : .
+FileSize                        : 813 kB
+FileModifyDate                  : 2000:01:11 20:31:08-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.01
+ResolutionUnit                  : inches
+XResolution                     : 75
+YResolution                     : 75
+ExifByteOrder                   : Little-endian (Intel, II)
+XPComment                       : December 14, 1975..Confirmation Certificate for..Paul Alexander Houghton (13)
+ImageWidth                      : 1481
+ImageHeight                     : 1017
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:2:2 (2 1)
+ImageSize                       : 1481x1017
+======== 1975-12-14 02 Paul and Shirley.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-12-14 02 Paul and Shirley.jpg
+Directory                       : .
+FileSize                        : 263 kB
+FileModifyDate                  : 2000:01:06 04:18:50-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 14, 1975 home @ 5047 W Belmont..Glendale Arizona..Paul Confirmation..Paul Alexander Houghton (13)..Shirley Wirig
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 402
+ImageHeight                     : 528
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 402x528
+======== 1975-12-25 01 Paul and Carol.jpg
+ExifToolVersion                 : 8.65
+FileName                        : 1975-12-25 01 Paul and Carol.jpg
+Directory                       : .
+FileSize                        : 368 kB
+FileModifyDate                  : 2000:03:26 04:14:30-07:00
+FilePermissions                 : rw-rw-rw-
+FileType                        : JPEG
+MIMEType                        : image/jpeg
+JFIFVersion                     : 1.00
+ResolutionUnit                  : inches
+XResolution                     : 150
+YResolution                     : 150
+ExifByteOrder                   : Little-endian (Intel, II)
+Warning                         : Invalid EXIF text encoding
+UserComment                     : LEAD Technologies Inc. V1.01
+XPComment                       : December 25 1975 home @ 5047 W Belmont..Glendale Arizona..Paul Alexander Houghton (12)..Carol Lynn Colquhoun (2)
+Comment                         : LEAD Technologies Inc. V1.01
+ImageWidth                      : 674
+ImageHeight                     : 534
+EncodingProcess                 : Baseline DCT, Huffman coding
+BitsPerSample                   : 8
+ColorComponents                 : 3
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+ImageSize                       : 674x534
+   31 image files read

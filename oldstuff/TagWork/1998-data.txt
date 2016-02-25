@@ -1,0 +1,309 @@
+======== 1998-05-26 01 Jared Lind Kenyon.jpg
+XPComment                       : May 26 1998 Arizona..Jared Lind Kenyon..9 lb 13 oz
+ImageSize                       : 382x520
+======== 1998-06-00 01 Neighbor Boys.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Robert Edward Houghton (14)..Mathew Bills..Mike Bills..Mark Bills..Ryan Allen Houghton (8)
+ImageSize                       : 884x608
+======== 1998-06-00 02 Neighbor Boys.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Robert Edward Houghton (14)..Mathew Bills..Mike Bills..Mark Bills..Ryan Allen Houghton (8)
+ImageSize                       : 886x604
+======== 1998-06-00 03 Neighbor Boys.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Robert Edward Houghton (14)..Mathew Bills..Mike Bills..Mark Bills..Ryan Allen Houghton (8)
+ImageSize                       : 886x606
+======== 1998-06-00 04 Neighbor Boys.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Robert Edward Houghton (14)..Mathew Bills..Mike Bills..Mark Bills..Ryan Allen Houghton (8)
+ImageSize                       : 886x610
+======== 1998-06-00 05 Rob and Mike.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Robert Edward Houghton (14)..Mike Bills
+ImageSize                       : 884x606
+======== 1998-06-00 06 Rob and Mathew.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Robert Edward Houghton (14)..Mathew Bills
+ImageSize                       : 884x606
+======== 1998-06-00 07 Mark and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Mark Bills..Ryan Allen Houghton (8)
+ImageSize                       : 389x522
+======== 1998-06-00 08 Mark and Ryan.jpg
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Neighborhood Boys..Mark Bills..Ryan Allen Houghton (8)
+ImageSize                       : 606x884
+======== 1998-06-00 09 Front Yard.jpg
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 606x886
+======== 1998-06-00 10 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 886x604
+======== 1998-06-00 11 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 888x608
+======== 1998-06-00 12 Front Yard.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 886x606
+======== 1998-06-00 13 Bunny Chair for Jared.jpg
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Bunny Chair
+ImageSize                       : 616x888
+======== 1998-06-00 14 Rose.jpg
+XPComment                       : June 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Front Yard
+ImageSize                       : 610x886
+======== 1998-06-00 15 Flower Bed.jpg
+ImageSize                       : 1204x782
+======== 1998-06-02 01.jpg
+ImageSize                       : 1187x787
+======== 1998-06-02 02.jpg
+ImageSize                       : 1204x782
+======== 1998-06-12 01 Nicole and Jared.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Nicole Grover holding..Jared Lind Kenyon (3 wks)
+ImageSize                       : 892x614
+======== 1998-06-12 02 Carol Joan Nicole Jared.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Carol Lynn Colquhoun (26)..Joan Francis Spinhirny (59)..Nicole Grover..Jared Lind Kenyon (3 wks)
+ImageSize                       : 883x581
+======== 1998-06-12 03 01 scan0199.jpg
+ImageSize                       : 1170x799
+======== 1998-06-12 03 Paul and Jared.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Paul Alexander Houghton (35)..Jared Lind Kenyon (3 wks)
+ImageSize                       : 884x602
+======== 1998-06-12 04 1 Paul and Jared.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Paul Alexander Houghton (35)..Jared Lind Kenyon (3 wks)
+ImageSize                       : 882x562
+======== 1998-06-12 04 2 scan0198.jpg
+ImageSize                       : 1157x799
+======== 1998-06-12 04 3 Paul and Jared.jpg
+ImageSize                       : 1140x546
+======== 1998-06-12 04 3 scan0200.jpg
+ImageSize                       : 1140x546
+======== 1998-06-12 05 Joan Francis Spinhirny.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Joan Francis Spinhirny (59)
+ImageSize                       : 888x608
+======== 1998-06-12 06 Nicole Friends and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Nicole's Friends..Ryan Allen Houghton (8)
+ImageSize                       : 890x608
+======== 1998-06-12 07 Nancy Eric Paul Todd.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Nancy Kay Colquhoun (28)..Eric Hull..Paul Alexander Houghton (35)..Todd Kenyon
+ImageSize                       : 886x610
+======== 1998-06-13 01 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Paul Alexander Houghton (35)..Nancy Kay Colquhoun (28)..Eric Hull
+ImageSize                       : 866x608
+======== 1998-06-13 02 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Paul Alexander Houghton (35)..Nancy Kay Colquhoun (28)..Eric Hull
+ImageSize                       : 864x606
+======== 1998-06-13 03 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Robert Edward Houghton (14)..Ryan Allen Houghton (8)
+ImageSize                       : 866x606
+======== 1998-06-13 04 Lake Pleasant.jpg
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Paul Alexander Houghton (35)
+ImageSize                       : 608x866
+======== 1998-06-13 05 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona
+ImageSize                       : 868x606
+======== 1998-06-13 06 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Ryan Allen Houghton (8)..Paul Alexander Houghton (35)..Robert Edward Houghton (14)
+ImageSize                       : 868x606
+======== 1998-06-13 07 Nancy Patty Eric.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Nancy Kay Colquhoun (28)..Patricia Ann Morris (36)..Eric Hull
+ImageSize                       : 868x608
+======== 1998-06-13 08 Patricia Ann Morris.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Patricia Ann Morris (36)
+ImageSize                       : 866x608
+======== 1998-06-13 09 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Robert Edward Houghton (14)..Ryan Allen Houghton (8)
+ImageSize                       : 866x608
+======== 1998-06-13 10 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Robert Edward Houghton (14)
+ImageSize                       : 870x610
+======== 1998-06-13 11 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Joan Francis Spinhirny (59)..Paul Alexander Houghton (35)..Robert Edward Houghton (14)..Nancy Kay Colquhoun (28)..Eric Hull..Robert Edward Houghton
+ImageSize                       : 870x606
+======== 1998-06-13 12 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Ryan Allen Houghton (8)..Robert Edward Houghton (14)
+ImageSize                       : 872x606
+======== 1998-06-13 13 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona
+ImageSize                       : 864x608
+======== 1998-06-13 14 Lake Pleasant.jpg
+XPComment                       : June 13 1998 Lake Pleasant Arizona
+ImageSize                       : 608x864
+======== 1998-06-13 15 Lake Pleasant.jpg
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Robert Edward Houghton (14)..Ryan Allen Houghton (8)
+ImageSize                       : 608x866
+======== 1998-06-13 16 Lake Pleasant.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 13 1998 Lake Pleasant Arizona..Ryan Allen Houghton (8)
+ImageSize                       : 884x610
+======== 1998-06-14 01 Not playing with Camera.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : June 12 1998 Joan's House..5047 W Belmont Glendale Arizona..Ryan Allen Houghton (8)..Quote 'No, I didn't touch the camera'
+ImageSize                       : 886x608
+======== 1998-07-13 Carol Letter.jpg
+ImageSize                       : 1355x977
+======== 1998-07-21 01 Jared Lind Kenyon.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : July 21 1998 Arizona..Jared Lind Kenyon (1 m)
+ImageSize                       : 742x1044
+======== 1998-08-00 01 Jared 8 Wks scan0196.jpg
+ImageSize                       : 976x1376
+======== 1998-08-06 01 Lake Tarryall.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 6 1998 Tarryall Lake Colorado
+ImageSize                       : 866x606
+======== 1998-08-06 02 Lake Tarryall.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 6 1998 Tarryall Lake Colorado..Paul Alexander Houghton (35)..Ryan Allen Houghton (8)
+ImageSize                       : 866x608
+======== 1998-08-06 03 Lake Tarryall.jpg
+XPComment                       : August 6 1998 Tarryall Lake Colorado
+ImageSize                       : 868x612
+======== 1998-08-06 04 Lake Tarryall.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 6 1998 Tarryall Lake Colorado
+ImageSize                       : 866x608
+======== 1998-08-06 05 Rob and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : August 6 1998 Tarryall Lake Colorado..Robert Edward Houghton (14)..Ryan Allen Houghton (8)
+ImageSize                       : 866x606
+======== 1998-08-06 06 Robert Dean Welsh.jpg
+Warning                         : Invalid EXIF text encoding
+UserComment                     : File written by Adobe Photoshop¨ 4.0
+XPComment                       : August 6 1998 Tarryall Lake Colorado..Robert Dean Welsh (57)
+DisplayedUnitsX                 : inches
+DisplayedUnitsY                 : inches
+PhotoshopQuality                : 12
+PhotoshopFormat                 : Standard
+ProgressiveScans                : 3 Scans
+Comment                         : File written by Adobe Photoshop¨ 4.0
+DCTEncodeVersion                : 100
+APP14Flags0                     : [14]
+APP14Flags1                     : (none)
+ColorTransform                  : YCbCr
+ImageSize                       : 878x606
+======== 1998-08-06 07 Robert Dean Welsh.jpg
+XPComment                       : August 6 1998 Tarryall Lake Colorado..Robert Dean Welsh (57)
+ImageSize                       : 610x868
+======== 1998-08-06 08 Robert Dean Welsh.jpg
+XPComment                       : August 6 1998 Tarryall Lake Colorado..Robert Dean Welsh (57)
+ImageSize                       : 594x866
+======== 1998-08-12 01 Jared 8 Wks scan0195.jpg
+ImageSize                       : 950x1164
+======== 1998-10-01 00 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : September 1996 Otero Elementary..Colorado Springs Colorado..Ryan Allen Houghton (7)
+ImageSize                       : 700x956
+======== 1998-10-09 01 Paul Birthday Cake.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 9 1998 ..1326 Canoe Creek Dr S..Colorado Springs Colorado..Paul Alexander Houghton (36) Birthday Cake
+ImageSize                       : 866x606
+======== 1998-10-09 02 Paul Birthday Cake.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 9 1998 ..1326 Canoe Creek Dr S..Colorado Springs Colorado..Paul Alexander Houghton (36) Birthday Cake
+ImageSize                       : 594x890
+======== 1998-10-09 03 190944~7.JPG
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 9 1998 ..1326 Canoe Creek Dr S..Colorado Springs Colorado..Brian Haynes..Joan Francis Spinhirny (59)..Pete (neighbor)..Heather Haynes..Melisa (neighbor)
+ImageSize                       : 866x608
+======== 1998-10-09 03 Paul Birthday.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 9 1998 ..1326 Canoe Creek Dr S..Colorado Springs Colorado..Joan Francis Spinhirny (59)..Pete (neighbor)..Heather Haynes..Melisa (neighbor)..Sara (neighbor)
+ImageSize                       : 866x608
+======== 1998-10-09 05 Paul Birthday.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 9 1998 ..1326 Canoe Creek Dr S..Colorado Springs Colorado..Tammy Haynes..Nevy Hanyes..Joan Francis Spinhirny (59)..Ryan Allen Houghton (9)..Emily (neighbor)..Sara (neighbor)..Pete (neighbor)..Paul Alexander Houghton (36) Birthday
+ImageSize                       : 882x562
+======== 1998-10-09 06 Paul Birthday.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 9 1998..1326 Canoe Creek Dr S..Colorado Springs Colorado..Sara (neighbor)..Nevy Haynes..Tammy Haynes..Eian Hanyes..Brian Hanyes..Robert Edward Houghton (14)..Pete (neighbor)
+ImageSize                       : 884x614
+======== 1998-11-00 01 Jared Lind Kenyon.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : November 1988 Arizona..Jared Lind Kenyon (6 m)
+ImageSize                       : 327x455
+======== 1998-12-00 01 Kenyon Family.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 1998 Arizona..Todd Kenyon..Carol Lynn Colquhoun (26)..Jared Kenyon (7 m)
+ImageSize                       : 874x596
+======== 1998-12-00 02 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 1988 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 874x562
+======== 1998-12-00 03 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 1988 1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 880x602
+======== 1998-12-25 01 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 884x562
+======== 1998-12-25 02 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 878x602
+======== 1998-12-25 03 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 878x562
+======== 1998-12-25 04 1 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Tree
+ImageSize                       : 884x564
+======== 1998-12-25 05 Robert Edward Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (14)
+ImageSize                       : 886x608
+======== 1998-12-25 06 Paul and Rob.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (36)..Robert Edward Houghton (14)
+ImageSize                       : 880x562
+======== 1998-12-25 07 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (9)
+ImageSize                       : 886x604
+======== 1998-12-25 08 Robert Edward Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (14)
+ImageSize                       : 884x602
+======== 1998-12-25 09 Robert Edward Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Robert Edward Houghton (14)
+ImageSize                       : 880x600
+======== 1998-12-25 10 Paul and Rob.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Paul Alexander Houghton (36)..Robert Edward Houghton (14)
+ImageSize                       : 832x610
+======== 1998-12-25 11 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Ryan Allen Houghton (9)
+ImageSize                       : 870x614
+======== 1998-12-25 12 Christmas Morning.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Morning
+ImageSize                       : 880x564
+======== 1998-12-25 13 Christmas Morning.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1988 ..1326 Canoe Creek Dr S..Colorado Springs Colorado 80906..Christmas Morning
+ImageSize                       : 586x886
+   82 image files read

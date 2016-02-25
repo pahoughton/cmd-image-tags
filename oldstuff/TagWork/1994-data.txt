@@ -1,0 +1,214 @@
+======== 1994-01-00 00.jpg
+ImageSize                       : 966x707
+======== 1994-01-00 01 Rob and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : January 1994 home &8029 South 87th East..Tulsa Oklahoma 74133..Robert Edward Houghton (9)..Ryan Allen Houghton (4)
+ImageSize                       : 728x536
+======== 1994-01-00 02 Rob and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : January 1994 home &8029 South 87th East..Tulsa Oklahoma 74133..Robert Edward Houghton (9)..Ryan Allen Houghton (4)
+ImageSize                       : 718x534
+======== 1994-01-00 03.jpg
+ImageSize                       : 728x532
+======== 1994-02-00 01.jpg
+ImageSize                       : 724x532
+======== 1994-02-00 02.jpg
+ImageSize                       : 724x536
+======== 1994-03-15 02 Rob and Bobo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : March 1993 home @ 8029 South 87th East..Tulsa Oklahoma 74133..Robert Edward Houghton (8)..Bobo (dog)
+ImageSize                       : 735x526
+======== 1994-03-15 07 10 n15.jpg
+ImageSize                       : 969x690
+======== 1994-03-15 07.jpg
+ImageSize                       : 726x534
+======== 1994-03-15 08 10.jpg
+ImageSize                       : 728x534
+======== 1994-03-15 08 12 21 n16.jpg
+ImageSize                       : 969x703
+======== 1994-03-15 08 13 21 n14.jpg
+ImageSize                       : 959x696
+======== 1994-03-15 08.jpg
+ImageSize                       : 720x528
+======== 1994-03-15 09.jpg
+ImageSize                       : 716x534
+======== 1994-03-15 20 n11 2.jpg
+ImageSize                       : 959x696
+======== 1994-03-15 70 01 Ryan and Bobo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : March 1993 home @ 8029 South 87th East..Tulsa Oklahoma 74133..Ryan Allen Houghton (3)..Bobo (dog)
+ImageSize                       : 724x486
+======== 1994-03-15 70 02 scan0193.jpg
+ImageSize                       : 952x697
+======== 1994-03-15 70 06.jpg
+ImageSize                       : 730x532
+======== 1994-03-15 70 n12.jpg
+ImageSize                       : 966x696
+======== 1994-04-00 01 Patricia Ann Morris.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : April 1994 Devil's Den State Park..Arkansas..Patricia Ann Morris (32)
+ImageSize                       : 718x532
+======== 1994-04-00 02 Patricia Ann Morris.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : April 1994 Devil's Den State Park..Arkansas..Patricia Ann Morris (32)
+ImageSize                       : 534x724
+======== 1994-06-00 03 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : January 1994 home @ 8029 South 87th East..Tulsa Oklahoma 74133..Ryan Allen Houghton (4)
+ImageSize                       : 730x536
+======== 1994-06-00 04 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : January 1994 home @ 8029 South 87th East..Tulsa Oklahoma 74133..Ryan Allen Houghton (4)
+ImageSize                       : 722x534
+======== 1994-10-10 01 Halloween.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 1994 home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Holloween..
+ImageSize                       : 726x530
+======== 1994-10-31 01 Ryan and Rob.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 31 1994..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Ryan Allen Houghton (5)..Robert Edward Houghton (10)
+ImageSize                       : 532x722
+======== 1994-10-31 02 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 31 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Ryan Allen Houghton (5)
+ImageSize                       : 720x532
+======== 1994-10-31 03 Robert Edward Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 31 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Robert Edward Houghton (10)
+ImageSize                       : 726x536
+======== 1994-10-31 04 Rob and Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 31 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Ryan Allen Houghton (5)..Robert Edward Houghton (10)
+ImageSize                       : 726x530
+======== 1994-10-31 05 Ryan Class Pic.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : October 31 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Ryan Allen Houghton (5) red devil..Halloween Class Picture
+ImageSize                       : 724x612
+======== 1994-11-00 04 Ryan Allen Houghton.jpg
+XPComment                       : November 1994 Stratmoor Hills..Colorado Springs  Colorado  80906..Ryan Allen Houghton (5)
+ImageSize                       : 457x624
+======== 1994-11-00 04 Ryan.jpg
+ImageSize                       : 692x1011
+======== 1994-11-00 05 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : November 1994 Stratmoor Hills ID Card..Colorado Springs Colorado..Ryan Allen Houghton (5)
+ImageSize                       : 486x304
+======== 1994-12-16 01 Carol Graduation.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 16 1994..Flagstaff Arizona..Patricia Ann Morris (33)..Carol Lynn Colquhoun (22)..Paul Alexander Houghton (32)..Ryan Allen Houghton (5)..Robert Edward Houghton (10)
+ImageSize                       : 732x528
+======== 1994-12-16 02 Carol Graduation.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 16 1994..Flagstaff Arizona..Patricia Ann Morris (33)..Nicole Grover..Carol Spinhirny..Nancy Kay Colquhoun (24)..Joan Francis Spinhirny (55)..Carol Lynn Colquhoun (22)..Paul Alexander Houghton (32)..Fawn Reichard..Ryan Allen Houghton (5)..Robert Edward Houghton (10)
+ImageSize                       : 726x538
+======== 1994-12-16 03 Ryan Carol Rob.jpg
+XPComment                       : December 16 1994..Flagstaff Arizona..Ryan Allen Houghton (5)..Carol Lynn Colquhoun (22)..Robert Edward Houghton (10)
+ImageSize                       : 479x400
+======== 1994-12-17 01 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Christmast Tree
+ImageSize                       : 536x722
+======== 1994-12-17 02 Paul and Patty.jpg
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Paul Alexander Houghton (32)..Patricia Ann Morris (33)
+ImageSize                       : 479x496
+======== 1994-12-17 03 Fawn Ryan Robert.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Fawn Reichard..Ryan Allen Houghton (5)..Robert Edward Houghton (10)
+ImageSize                       : 730x528
+======== 1994-12-17 04 Christmas Tree.jpg
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Christmast Tree
+ImageSize                       : 536x734
+======== 1994-12-17 05 Carol Graduation.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Paul Alexander Houghton (32)..unknown..Carol Spinhirny..Fawn Reichard..Ryan Allen Houghton (5)..Mike Reichard
+ImageSize                       : 742x530
+======== 1994-12-17 06 Carol Graduation.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Fawn Reichard..Carol Spinhirny..Paul Alexander Houghton (32)..Carol Lynn Colquhoun (22)..Patricia Ann Morris (33)..Ryan Allen Houghton (5)..Robert Edward Houghton (10)
+ImageSize                       : 722x532
+======== 1994-12-17 07 Carol Graduation.jpg
+ImageSize                       : 969x697
+======== 1994-12-18 01 Pioneer Village.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 18 1994 Pioneer Village Arizona
+ImageSize                       : 716x532
+======== 1994-12-18 02 Pioneer Village.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 18 1994 Pioneer Village Arizona
+ImageSize                       : 732x528
+======== 1994-12-18 03 Pioneer Village.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 18 1994 Pioneer Village Arizona
+ImageSize                       : 728x530
+======== 1994-12-18 04 1 Pioneer Village.jpg
+ImageSize                       : 956x706
+======== 1994-12-18 04 2 Pioneer Village.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 18 1994 Pioneer Village Arizona..Carol Lynn Colquhoun (22)..Ryan Allen Houghton (5)..Paul Alexander Houghton (32)..Robert Edward Houghton (10)
+ImageSize                       : 736x530
+======== 1994-12-18 05 Pioneer Village.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 18 1994 Pioneer Village Arizona
+ImageSize                       : 728x530
+======== 1994-12-18 06 Pioneer Village.jpg
+ImageSize                       : 962x714
+======== 1994-12-19 0 01 Ryan and Mike.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 19 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Ryan Allen Houghton (5)..Mike Reichard
+ImageSize                       : 724x534
+======== 1994-12-19 02 Ryan and Mike.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Ryan Allen Houghton (5)..Mike Reichard
+ImageSize                       : 714x538
+======== 1994-12-19 03 Rob Fawn Ryan.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 17 1994 Joan Spinhirny home..5047 W Belmont Glendale Arizona..Robert Edward Houghton (10)..Fawn Reichard..Ryan Allen Houghton (5)
+ImageSize                       : 594x530
+======== 1994-12-24 01 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 24 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Christmas Tree
+ImageSize                       : 530x730
+======== 1994-12-25 01 Christmas Tree.jpg
+XPComment                       : December 25 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Christmas Tree
+ImageSize                       : 532x720
+======== 1994-12-25 02 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Christmas Tree
+ImageSize                       : 536x720
+======== 1994-12-25 03 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Christmas Tree
+ImageSize                       : 714x534
+======== 1994-12-25 04 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Christmas Tree
+ImageSize                       : 738x530
+======== 1994-12-25 05 Rob Ryan Paul.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Robert Edward Houghton (10)..Ryan Allen Houghton (5)..Paul Alexander Houghton (32)
+ImageSize                       : 720x534
+======== 1994-12-25 06 Rob Ryan Paul.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994 ..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Robert Edward Houghton (10)..Ryan Allen Houghton (5)..Paul Alexander Houghton (32)
+ImageSize                       : 738x532
+======== 1994-12-25 07 Paul and Rob.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Paul Alexander Houghton (32)..Robert Edward Houghton (10)
+ImageSize                       : 722x534
+======== 1994-12-25 08 Endo and Bobo.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Endo (cat)..Bobo (dog)
+ImageSize                       : 720x532
+======== 1994-12-25 09 Ryan Allen Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Ryan Allen Houghton (5)
+ImageSize                       : 736x530
+======== 1994-12-25 10 Robert Edward Houghton.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Robert Edward Houghton (10)
+ImageSize                       : 726x536
+======== 1994-12-25 11 Christmas Tree.jpg
+Warning                         : Invalid EXIF text encoding
+XPComment                       : December 25 1994..home @ 4445 Drummond South..Colorado Springs,  Colorado  80906..Christmas Tree
+ImageSize                       : 736x532
+   64 image files read

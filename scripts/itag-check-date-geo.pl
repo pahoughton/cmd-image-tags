@@ -15,23 +15,23 @@ our @dtFlds = ('DateTimeOriginal','CreateDate');
 foreach my $fn (@ARGV) {
   my $meta = ImageInfo($fn);
 
+  my $fnstamp;
   if( $fn =~ /(\d\d\d\d)-(\d\d)-(\d\d).(\d\d)(\d\d)(\d\d)(.*)/ ) {
     my ($yr,$mt,$dt,$hr,$mn,$sc,$rest) = ($1,$2,$3,$4,$5,$6,$7);
-    my $fnstamp = "$yr:$mt:$dt $hr:$mn:$sc";
+    $fnstamp = "$yr:$mt:$dt $hr:$mn:$sc";
+  }
 
-    my $dto = $meta->{DateTimeOriginal} ? $meta->{DateTimeOriginal} : '';
-    my $cdt = $meta->{CreateDate} ? $meta->{CreateDate} : '';
-    if( ! defined( $meta->{DateTimeOriginal} )
-	|| ! defined( $meta->{CreateDate} )
-	|| $dto ne $cdt ) {
-      print "$dto != $cdt $fn\n";
-    } elsif ($dto ne $fnstamp ) {
-      die( "dto($dto) ne fn($fnstamp)");
-    }
+  my $dto = $meta->{DateTimeOriginal};
+  my $cdt = $meta->{CreateDate} ? $meta->{CreateDate} : $dto;
+  my $gps = defined( $meta->{GPSPosition} ) ? "GPS" : "";
+
+  if( ! defined( $cdt ) ) {
+    print "NODATE $gps $fn\n";
   } else {
-    die("fn format: $fn");
+    print "$cdt $gps $fn \n";
   }
 }
+
 #use DBI;
 #use DBD::Pg qw(:pg_types);
 #use File::Basename;

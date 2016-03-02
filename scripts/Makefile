@@ -1,7 +1,20 @@
+# 2016-03-01 (cc) <paul4hough@gmail.com>
+#
 
-install:
-	install itag-rename-files.pl ~/scripts
-	install itag-set-dates.bash ~/scripts
-	install itag-set-gps.bash ~/scripts
-	install itag-gps-from-moves.pl ~/scripts
-	install itag-check-date-geo.pl ~/scripts
+INSTALLDIR = ~/scripts
+
+SOURCES		=		\
+	itag-date.bash		\
+	itag-check-date-geo.pl	\
+	itag-rename-files.pl	\
+	itag-set-gps.bash	\
+	itag-set-dates.bash	\
+
+${INSTALLDIR}/% : %.bash
+	install $< $@
+
+${INSTALLDIR}/% : %.pl
+	install $< $@
+
+
+install: $(addprefix ${INSTALLDIR}/,$(basename ${SOURCES}))

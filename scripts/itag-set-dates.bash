@@ -2,6 +2,10 @@ set -x
 
 dt=$1
 shift;
+if [ -z "$dt" ] ; then
+  echo "usage: $0 date filenames"
+  exit 1
+fi
 
 cnt=0;
 for fn in $* ; do

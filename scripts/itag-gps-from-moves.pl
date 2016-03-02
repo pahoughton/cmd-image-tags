@@ -15,7 +15,7 @@ use DateTime::Format::Strptime;
 my $waypts;
 
 my $wpcnt = 0;
-foreach my $fn (glob('"/home/paul/Dropbox/Apps/Moves Export/storylines_20151227*gpx"')) {
+foreach my $fn (glob('"/home/paul/Dropbox/Apps/Moves Export/storylines_201512*gpx"')) {
 
   open( my $gfh, "<", $fn ) || die("$? - open $fn");
   my $gpx = Geo::Gpx->new( input => $gfh );

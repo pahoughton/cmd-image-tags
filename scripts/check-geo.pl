@@ -14,7 +14,9 @@ use Image::ExifTool qw(:Public);
 foreach my $fn (@ARGV) {
     my $meta = ImageInfo($fn);
     if( ! defined( $meta->{GPSPosition} ) ) {
-      print "ngps: $fn\n";
+      print "NGPS: $fn\n";
+    } else {
+      print "yes: $fn\n";
     }
 }
 

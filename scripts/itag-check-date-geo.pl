@@ -23,12 +23,12 @@ foreach my $fn (@ARGV) {
 
   my $dto = $meta->{DateTimeOriginal};
   my $cdt = $meta->{CreateDate} ? $meta->{CreateDate} : $dto;
-  my $gps = defined( $meta->{GPSPosition} ) ? "GPS" : "";
+  my $gps = $meta->{GPSPosition};
 
-  if( ! defined( $cdt ) ) {
-    print "NODATE $gps $fn\n";
+  if( ! defined( $cdt ) || ! defined( $gps ) ) {
+    print defined($cdt) ? '' : "NODATE ",defined($gps) ? '' : "nogps ", "$fn\n";
   } else {
-    print "$cdt $gps $fn \n";
+    # print "$cdt $gps $fn \n";
   }
 }
 

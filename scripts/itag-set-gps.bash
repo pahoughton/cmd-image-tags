@@ -3,19 +3,20 @@
 #
 #set -x
 
-fn=$1
-lat=$2
-lon=$3
+lat=$1
+shift
+lon=$1
+shift
 
 if [ -z "$lon" ] ; then
-  echo no longitude
+  echo usage $0 lat lon filenames
   exit 1
 fi
 
-echo update $fn $lat $lon
-exiftool -overwrite_original \
-	 -Keywords=Houghton \
-	 -GPSLatitudeRef=N -GPSLongitudeRef=W \
-	 -GPSLatitude="$lat" \
-	 -GPSLongitude="$lon" \
-	 "$fn"
+for fn in $* ; do
+  exiftool -overwrite_original			\
+	   -GPSLatitudeRef=N -GPSLongitudeRef=W	\
+	   -GPSLatitude="$lat"			\
+	   -GPSLongitude="$lon"			\
+	   "$fn"
+done
